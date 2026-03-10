@@ -1,4 +1,4 @@
-## Hi, I'm Claudia 👋
+## Hi, I'm Claudia :star:
 
 Physicist with a MSc in Data Science interested in data analysis, software and scientific computing.
 
